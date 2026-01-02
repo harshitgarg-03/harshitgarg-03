@@ -25,13 +25,13 @@ Email Me 👉 ✉ *gargh2120@gmail.com* For Collaboration/Project or Anything El
 
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HARSHIT031204-ENG&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HARSHIT031204-ENG&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HARSHIT031204-ENG&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HARSHIT031204-ENG&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HARSHIT031204-ENG&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=HARSHIT031204-ENG&theme=radical&hide_border=false&include_all_commits=true&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=HARSHIT031204-ENG&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitgarg-03&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshitgarg-03&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshitgarg-03&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshitgarg-03&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshitgarg-03&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=harshitgarg-03&theme=radical&hide_border=false&include_all_commits=true&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitgarg-03&theme=radical">
 
 </div>
 <br>
@@ -40,9 +40,9 @@ Email Me 👉 ✉ *gargh2120@gmail.com* For Collaboration/Project or Anything El
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HARSHIT031204-ENG&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=harshitgarg-03&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HARSHIT031204-ENG&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=harshitgarg-03&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
